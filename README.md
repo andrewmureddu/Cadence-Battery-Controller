@@ -40,4 +40,4 @@ It is open prior art: free for anyone to study, use, or adapt without restrictio
 When referencing this work, please cite as:
 
 > Mureddu, A. (2025). *Cadence Battery Controller (Embodiment of the Cadence Control Law).* GitHub repository.  
-> DOI: [Zenodo DOI will appear here after release]
+> DOI: https://doi.org/10.5281/zenodo.17169371
